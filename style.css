@@ -1,0 +1,21 @@
+html, body {
+    background-color: #eee;
+    margin: 0;
+  }
+  
+  main {
+    box-sizing: border-box;
+    max-width: 1024px;
+    min-height: 100vh;
+    padding: 2em;
+    margin: 0 auto;
+    background: white;
+  }
+  h1
+  {
+      color: blue;
+  }
+  .cursor
+  {
+    cursor: pointer;
+  }

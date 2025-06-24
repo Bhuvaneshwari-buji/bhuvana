@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://hindustanuniv.ac.in/sitemap.xml
